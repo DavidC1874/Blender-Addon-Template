@@ -1,4 +1,5 @@
 # Blender-Addon-Template
+A very simple and basic addon temple
 ***
 Just a basic addon template with panels, operators, a pop-out window, and interactive choices.
 
