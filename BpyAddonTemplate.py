@@ -74,7 +74,7 @@ class PanelA(bpy.types.Panel):
         col.operator("mesh.popup_window")
         
         
-
+from bpy.props import EnumProperty, FloatProperty
 #*会出现弹窗的Operator  
 class MESH_OT_popup_window(bpy.types.Operator):
     bl_idname = "mesh.popup_window"
